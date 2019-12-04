@@ -1,1 +1,1 @@
-In Stage0 create a sub-folder with your ID#. There all developed ImageJ plugins should be uploaded.
+// In Stage0 create a sub-folder with your ID#. There all developed ImageJ plugins should be uploaded.
